@@ -1,6 +1,6 @@
 a Neural Network Dependency Parser
 
-Introduction
+Introduction \n
 The instructions below are fairly specific and it is okay to deviate from implementation details. However: You will be graded based on the functionality of each function. Make sure the function signatures (function names, parameter and return types/data structures) match exactly the description in this assignment. 
 
 Please make sure you are developing and running your code using Python 3.
